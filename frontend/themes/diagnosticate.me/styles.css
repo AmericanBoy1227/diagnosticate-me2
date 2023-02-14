@@ -1,0 +1,10 @@
+@import url('./main-layout.css');
+@import url('./views/patients-view.css');
+@import url('./views/statistics-view.css');
+@import url('./views/supported-conditions-view.css');
+@import url('./views/donate-view.css');
+@import url('line-awesome/dist/line-awesome/css/line-awesome.min.css');
+    [theme~="dark"] {
+      --lumo-base-color: hsl(214, 37%, 6%);
+
+    }
